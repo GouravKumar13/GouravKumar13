@@ -3,7 +3,6 @@
 
 
 
-Here are some ideas to get you started:
 #### Hi there,I’m Gourav Kumar :wave:
 <ul>
 <li> :eyes: I’m Front End Developer || Programmer || Learner</li>
