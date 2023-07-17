@@ -10,10 +10,11 @@ Hi there, I'm Gourav Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 <li> :revolving_hearts:️ I’m Willing to contribute more and more in Open Source Projects.</li>
 <li> :mailbox: Feel Free to Contact me....</li>
   </ul>
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][1]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][2]
-[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][3]
+  
 
-[1]: https://www.instagram.com/g.o.u.r.a.v_13
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][2]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
+
+
 [2]: https://www.linkedin.com/in/gouravkumar1312/
-[3]: https://www.github.com/GouravKumar13
+[5]: https://www.github.com/GouravKumar13
