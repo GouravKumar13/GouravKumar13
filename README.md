@@ -19,5 +19,5 @@ Hi there, I'm Gourav Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR
 [2]: https://www.linkedin.com/in/gouravkumar1312/
 [5]: https://www.github.com/GouravKumar13
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GouravKumar13&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GouravKumar13&layout=compact)
 
