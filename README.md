@@ -12,8 +12,8 @@ Hi there, I'm Gourav Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR
   </ul>
   
 
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][2]
-[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn1.png (LinkedIn))][2]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github1.png (Github))][5]
 
 
 [2]: https://www.linkedin.com/in/gouravkumar1312/
