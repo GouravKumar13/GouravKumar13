@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **gouravkumarat@gmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:1b4e7702-d936-3013-a5a8-ee475017b55b](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:1b4e7702-d936-3013-a5a8-ee475017b55b)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1xyWXYYuLyelDT_nZmis_boz0d5ZcSaWD/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
