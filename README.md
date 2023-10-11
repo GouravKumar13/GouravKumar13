@@ -22,4 +22,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravkumar13&show_icons=true&locale=en&layout=compact" alt="gouravkumar13" /></p>
 
 
-[![Holopin](https://holopin.me/gouravkumar13)](https://holopin.io/@gouravkumar13)
+[![An image of @gouravkumar13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gouravkumar13)](https://holopin.io/@gouravkumar13)
